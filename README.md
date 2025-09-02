@@ -1,9 +1,12 @@
 WSC by Tarantula Addicts.
 
-Feel free to add to the alias list.
+Code still under development, but will be released eventually under the MIT license to this repo.
 
-syntax: 
+In the mean time, feel free to add to the alias list.
+
 ```
+Syntax Example:
+
 {
   "alias": {
     "lsid": "urn:lsid:nmbe.ch:spidersp:#",
