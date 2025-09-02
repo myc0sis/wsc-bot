@@ -1,0 +1,34 @@
+{
+  "pmet": {
+    "lsid": "urn:lsid:nmbe.ch:spidersp:002352",
+    "canonical": "Poecilotheria metallica"
+  },
+  "obt": {
+    "lsid": "urn:lsid:nmbe.ch:spidersp:002389",
+    "canonical": "Pterinochilus murinus"
+  },
+  "recluse": {
+    "lsid": "urn:lsid:nmbe.ch:spidersp:002726",
+    "canonical": "Loxosceles reclusa"
+  },
+  "cversi": {
+    "lsid": "urn:lsid:nmbe.ch:spidersp:001839",
+    "canonical": "Caribena versicolor"
+  },
+  "versi": {
+    "lsid": "urn:lsid:nmbe.ch:spidersp:001839",
+    "canonical": "Caribena versicolor"
+  },
+  "aavic": {
+    "lsid": "urn:lsid:nmbe.ch:spidersp:001791",
+    "canonical": "Avicularia avicularia"
+  },
+  "bold": {
+    "lsid": "urn:lsid:nmbe.ch:spidersp:035430",
+    "canonical": "Phidippus audax"
+  },
+  "regal": {
+    "lsid": "urn:lsid:nmbe.ch:spidersp:035492",
+    "canonical": "Phidippus regius"
+  }
+}
