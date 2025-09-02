@@ -40,6 +40,7 @@ While the main code is still in development, you can contribute by adding specie
 
 [WSC Data Resources](https://wsc.nmbe.ch/dataresources)
 - API documentation and CSV with LSIDs.
+
 [iNaturalist](https://api.inaturalist.org/v1/docs/)
 - API documentation.
 
