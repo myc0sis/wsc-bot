@@ -43,7 +43,3 @@ While the main code is still in development, you can contribute by adding specie
 
 [iNaturalist](https://api.inaturalist.org/v1/docs/)
 - API documentation.
-
-## 📄 License
-
-This project will be released under the [MIT License](LICENSE) once development is complete.
