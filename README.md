@@ -19,3 +19,5 @@ Syntax Example:
   }
 }
 ```
+
+https://wsc.nmbe.ch/dataresources: API documentation and CSV with LSIDs.
